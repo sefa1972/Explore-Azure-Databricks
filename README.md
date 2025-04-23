@@ -43,3 +43,11 @@ At the end of the lab:
 ## Cleanup
 
 To avoid unnecessary Azure costs, it is important to delete the resources created. You can do this by deleting the resource group from the Azure portal.
+
+👤 Author >>  Sefa Öztürk
+
+IT Trainee | Azure Data Engineer in progress
+
+📇 LinkedIn: https://www.linkedin.com/in/sefa-ozturk1972
+
+

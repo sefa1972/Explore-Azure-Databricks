@@ -25,9 +25,8 @@ The goal of this lab is to learn how to analyze data, create visualizations, and
 6. Created a visual bar chart from the data.
 7. Created a table named `products` and queried it using SQL.
 
-## Folder Structure
+## Notes:  
 
-> Notes:  
 > - Environment: Single Node, Photon Acceleration enabled  
 > - Databricks Runtime: 13.3 LTS  
 > - Node type: Standard_DS3_v2  
